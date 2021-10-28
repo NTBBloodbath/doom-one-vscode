@@ -14,7 +14,7 @@ This colorscheme is ported from [doom-emacs' doom-one].
 
 ## Install
 
-WIP section
+Just [install the theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=NTBBloodbath.doom-one) or go to the extensions menu and look for doom-one.
 
 ## Screenshots
 
