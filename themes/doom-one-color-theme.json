@@ -61,7 +61,9 @@
         "terminal.ansiMagenta": "#c678dd",
         "terminal.ansiRed": "#ff6c6b",
         "terminal.ansiWhite": "#bbc2cf",
-        "terminal.ansiYellow": "#ecbe7b"
+        "terminal.ansiYellow": "#ecbe7b",
+        "diffEditor.insertedTextBackground": "#9ccc2d0d",
+        "diffEditor.removedTextBackground": "#ff00001a"
     },
     "tokenColors": [
         {
